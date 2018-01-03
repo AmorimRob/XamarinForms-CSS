@@ -1,0 +1,19 @@
+﻿.botao {
+    background-color: #11313F;
+    color: white;
+    font-size: 16;
+    height: 60;
+    border: 0;
+}
+
+#boasVindas {
+    color: red;
+    font-size: 25;
+}
+
+stacklayout {
+    background-color: yellow;
+    height: 100;
+    width: 100;
+    margin: 10;
+}
